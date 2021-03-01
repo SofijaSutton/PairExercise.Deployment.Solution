@@ -25,3 +25,5 @@ before_script:
 #   app: YOUR-HEROKU-APP-NAME-HERE # see README
 #   api_key:
 #     secure: YOUR-***ENCRYPTED***-API-KEY-HERE
+
+  secure: "ND0lHj9CyREMWaOn9TvgBHGucB/mglgAspu/MniG/KA5pwu016Ys95xh0cPM6nTBjHYeYoFxGbqB6cSezjnObz/lHap3DxI+FU9oLn+h6pUaCjv6/RDBjb+vhMNrgwfR2KS5JuL4Om3I89jLkztNYxc7M2xuaN6FBdhO51rUfQbn307sbVT1tApnRn+BuJaYHMaPL9J6DyOOPXJPKrsEafbSo4nUHpXf1NiNjt/smZb1mEdiAFoLcmSZ63RUpvOPh2Y5nLlCReg3puvTco2wSqxVwn9HbzHGc1gG1iGrhah9sJNe9l/HUvq/nHzoePHzWqKFv9wGzYBdZxhm04WvI26sd7P65os7e7z/tBD4zB2pvEGDz1sWohPfbw4hsnbWNFsOKHZ519i2lXGSFVxwz7uZgJLvVymJ2ZWOvrIvUU4wVtlFUsI7Z7OgIkMmihJ9dcUuofVrLZnGrUVNIV9n6LVJKk1lYNl+yRvOAHaRhN+7x2D1b6R9RGlPisz5QA6lvwuqWDHfCYo+n7jnygEWQ8o3yoQV2ngULkWF1CwnoP/ZkOolEiVSBfN8wC1CZVJVlIKaF2WluosqxEEZTFaiq5LoE6pQxWxo4Jwq1qNlx0qJByOAtaVbTdT9p8Wi4oYbdzvMr24OkclLATpYnIu0+zaw19lstREVwpxcvtvvGTc="
